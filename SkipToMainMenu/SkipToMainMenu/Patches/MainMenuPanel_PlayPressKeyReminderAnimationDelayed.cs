@@ -1,7 +1,7 @@
 ﻿using HarmonyLib;
 using UnityEngine;
 
-namespace Moonlighter_Practice_Mod.Patches
+namespace SkipToMainMenu.Patches
 {
     [HarmonyPatch(typeof(MainMenuPanel), nameof(MainMenuPanel.PlayPressKeyReminderAnimationDelayed))]
     internal class MainMenuPanel_PlayPressKeyReminderAnimationDelayed

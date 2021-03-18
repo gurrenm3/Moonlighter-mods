@@ -69,6 +69,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Main.cs" />
+    <Compile Include="Patches\GameManager_CheckVideoSequenceSkip - Copy.cs" />
     <Compile Include="Patches\GameManager_CheckVideoSequenceSkip.cs" />
     <Compile Include="Patches\MainMenuPanel_CheckContinueAndSelectFirstButton.cs" />
     <Compile Include="Patches\MainMenuPanel_ShowGamepadGUI.cs" />

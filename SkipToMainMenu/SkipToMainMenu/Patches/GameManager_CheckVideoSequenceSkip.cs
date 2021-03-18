@@ -6,32 +6,22 @@ using System.Linq;
 using System.Reflection.Emit;
 using UnityEngine;
 
-namespace Moonlighter_Practice_Mod.Patches
+namespace SkipToMainMenu.Patches
 {
     [HarmonyPatch(typeof(GameManager), nameof(GameManager.CheckVideoSequenceSkip))]
     internal class GameManager_CheckVideoSequenceSkip
     {
-        public static IEnumerable<CodeInstruction> Transpiler(IEnumerable<CodeInstruction> instructions)
+        [HarmonyPostfix]
+        internal static void Postfix(GameManager __instance)
         {
-            List<CodeInstruction> codeInstructions = new List<CodeInstruction>(instructions);
-            var transpiler = new BaseTranspilerPatch(codeInstructions, new List<OpCode>() { OpCodes.Callvirt });
+            if (__instance._startSequenceMovie is null)
+                return;
 
-            for (int i = 0; i < codeInstructions.Count; i++)
-            {
-                if (!transpiler.IsCurrentInstructionGood(i))
-                    continue;
+            if (!__instance._startSequenceMovie.isPlaying)
+                return;
 
-                var newInstruction = transpiler.CreateNewCodeInstruction<GameManager_CheckVideoSequenceSkip>(nameof(SkipVideo));
-                codeInstructions[i] = newInstruction;
-                break;
-            }
-
-            return codeInstructions.AsEnumerable();
-        }
-
-        public static bool SkipVideo(PlayerAction action)
-        {
-            return true;
+            __instance._startSequenceMovie.SkipCurrent();
+            __instance.DisableFor(1f);
         }
     }
 }
