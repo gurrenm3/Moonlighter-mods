@@ -116,7 +116,6 @@ D:\GitHub\Moonlighter-mods\SkipToMainMenu\SkipToMainMenu\bin\Debug\0Harmony.dll
 D:\GitHub\Moonlighter-mods\SkipToMainMenu\SkipToMainMenu\bin\Debug\Assembly-CSharp-firstpass_publicized.dll
 D:\GitHub\Moonlighter-mods\SkipToMainMenu\SkipToMainMenu\bin\Debug\Assembly-CSharp_publicized.dll
 D:\GitHub\Moonlighter-mods\SkipToMainMenu\SkipToMainMenu\bin\Debug\BepInEx.dll
-D:\GitHub\Moonlighter-mods\SkipToMainMenu\SkipToMainMenu\bin\Debug\Moonlighter Mod Helper.dll
 D:\GitHub\Moonlighter-mods\SkipToMainMenu\SkipToMainMenu\bin\Debug\UnityEngine.CoreModule.dll
 D:\GitHub\Moonlighter-mods\SkipToMainMenu\SkipToMainMenu\bin\Debug\UnityEngine.dll
 D:\GitHub\Moonlighter-mods\SkipToMainMenu\SkipToMainMenu\bin\Debug\Mono.Cecil.dll

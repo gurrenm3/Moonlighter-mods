@@ -51,9 +51,6 @@
     <Reference Include="BepInEx">
       <HintPath>F:\Program Files (x86)\Steam\steamapps\common\Moonlighter\BepInEx\core\BepInEx.dll</HintPath>
     </Reference>
-    <Reference Include="Moonlighter Mod Helper">
-      <HintPath>F:\Program Files (x86)\Steam\steamapps\common\Moonlighter\BepInEx\plugins\Moonlighter Mod Helper.dll</HintPath>
-    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />

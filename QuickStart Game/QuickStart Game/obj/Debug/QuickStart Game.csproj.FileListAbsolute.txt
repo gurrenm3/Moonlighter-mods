@@ -2,7 +2,6 @@ D:\GitHub\Moonlighter-mods\QuickStart Game\QuickStart Game\bin\Debug\0Harmony.dl
 D:\GitHub\Moonlighter-mods\QuickStart Game\QuickStart Game\bin\Debug\Assembly-CSharp-firstpass_publicized.dll
 D:\GitHub\Moonlighter-mods\QuickStart Game\QuickStart Game\bin\Debug\Assembly-CSharp_publicized.dll
 D:\GitHub\Moonlighter-mods\QuickStart Game\QuickStart Game\bin\Debug\BepInEx.dll
-D:\GitHub\Moonlighter-mods\QuickStart Game\QuickStart Game\bin\Debug\Moonlighter Mod Helper.dll
 D:\GitHub\Moonlighter-mods\QuickStart Game\QuickStart Game\bin\Debug\UnityEngine.CoreModule.dll
 D:\GitHub\Moonlighter-mods\QuickStart Game\QuickStart Game\bin\Debug\UnityEngine.dll
 D:\GitHub\Moonlighter-mods\QuickStart Game\QuickStart Game\bin\Debug\Mono.Cecil.dll
