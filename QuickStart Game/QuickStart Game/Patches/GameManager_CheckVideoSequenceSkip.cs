@@ -15,7 +15,7 @@ namespace QuickStart_Game.Patches
                 return;
 
             __instance._startSequenceMovie.SkipCurrent();
-            __instance.DisableFor(1f);
+            __instance.DisableFor(0f);
         }
     }
 }

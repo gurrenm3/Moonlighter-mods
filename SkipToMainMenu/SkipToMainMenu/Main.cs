@@ -5,7 +5,7 @@ using System.Reflection;
 
 namespace SkipToMainMenu
 {
-    [BepInPlugin("GurrenM4.SkipToMainMenu", "SkipToMainMenu", "1.0.0")]
+    [BepInPlugin("GurrenM4.SkipToMainMenu", "SkipToMainMenu", "1.0.1")]
     public class Main : BaseUnityPlugin
     {
         internal static Assembly modAssembly = Assembly.GetExecutingAssembly();

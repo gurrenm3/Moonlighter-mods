@@ -5,7 +5,7 @@ using System.Reflection;
 
 namespace QuickStart_Game
 {
-    [BepInPlugin("GurrenM4.QuickStart_Game", "Quick Start Game", "1.0.0")]
+    [BepInPlugin("GurrenM4.QuickStart_Game", "Quick Start Game", "1.0.1")]
     public class Main : BaseUnityPlugin
     {
         internal static Assembly modAssembly = Assembly.GetExecutingAssembly();

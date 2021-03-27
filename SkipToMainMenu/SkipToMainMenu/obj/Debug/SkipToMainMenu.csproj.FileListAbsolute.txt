@@ -113,7 +113,6 @@ D:\Repos\Moonlighter Mods\SkipToMainMenu\SkipToMainMenu\obj\Debug\SkipToMainMenu
 D:\GitHub\Moonlighter-mods\SkipToMainMenu\SkipToMainMenu\bin\Debug\SkipToMainMenu.dll
 D:\GitHub\Moonlighter-mods\SkipToMainMenu\SkipToMainMenu\bin\Debug\SkipToMainMenu.pdb
 D:\GitHub\Moonlighter-mods\SkipToMainMenu\SkipToMainMenu\bin\Debug\0Harmony.dll
-D:\GitHub\Moonlighter-mods\SkipToMainMenu\SkipToMainMenu\bin\Debug\Assembly-CSharp-firstpass_publicized.dll
 D:\GitHub\Moonlighter-mods\SkipToMainMenu\SkipToMainMenu\bin\Debug\Assembly-CSharp_publicized.dll
 D:\GitHub\Moonlighter-mods\SkipToMainMenu\SkipToMainMenu\bin\Debug\BepInEx.dll
 D:\GitHub\Moonlighter-mods\SkipToMainMenu\SkipToMainMenu\bin\Debug\UnityEngine.CoreModule.dll
@@ -221,3 +220,10 @@ D:\GitHub\Moonlighter-mods\SkipToMainMenu\SkipToMainMenu\obj\Debug\SkipToMainMen
 D:\GitHub\Moonlighter-mods\SkipToMainMenu\SkipToMainMenu\obj\Debug\SkipToMainMenu.csproj.CopyComplete
 D:\GitHub\Moonlighter-mods\SkipToMainMenu\SkipToMainMenu\obj\Debug\SkipToMainMenu.dll
 D:\GitHub\Moonlighter-mods\SkipToMainMenu\SkipToMainMenu\obj\Debug\SkipToMainMenu.pdb
+D:\GitHub\Moonlighter-mods\SkipToMainMenu\SkipToMainMenu\bin\Debug\Assembly-CSharp-firstpass.dll
+D:\GitHub\Moonlighter-mods\SkipToMainMenu\SkipToMainMenu\bin\Debug\UnityEngine.UI.dll
+D:\GitHub\Moonlighter-mods\SkipToMainMenu\SkipToMainMenu\bin\Debug\Sirenix.OdinInspector.Attributes.dll
+D:\GitHub\Moonlighter-mods\SkipToMainMenu\SkipToMainMenu\bin\Debug\Sirenix.Serialization.dll
+D:\GitHub\Moonlighter-mods\SkipToMainMenu\SkipToMainMenu\bin\Debug\UnityEngine.Networking.dll
+D:\GitHub\Moonlighter-mods\SkipToMainMenu\SkipToMainMenu\bin\Debug\Sirenix.Serialization.Config.dll
+D:\GitHub\Moonlighter-mods\SkipToMainMenu\SkipToMainMenu\bin\Debug\Sirenix.Utilities.dll
